@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{55:function(s,t,e){"use strict";e.r(t);var n={name:"second-test",data:()=>({msg:"这个是second组件"})},a=e(0),c=Object(a.a)(n,(function(){var s=this.$createElement;return(this._self._c||s)("h3",[this._v(this._s(this.msg))])}),[],!1,null,null,null);t.default=c.exports}}]);

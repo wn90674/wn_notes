@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{56:function(t,n,s){"use strict";s.r(n);var e={name:"button-test",data:()=>({msg:"这个是button组件"})},u=s(0),a=Object(u.a)(e,(function(){var t=this.$createElement;return(this._self._c||t)("h3",[this._v(this._s(this.msg))])}),[],!1,null,null,null);n.default=a.exports}}]);
