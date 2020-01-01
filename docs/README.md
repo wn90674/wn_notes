@@ -1,18 +1,3 @@
-### readme
-vuepress test
-main page
+### README文件必须存在，否则无法编译生成`index.html`，导致默认打开是404页面
 
-### `js`代码测试
-```js{4}
-const a = 1;
-const array = [
-  {
-    name: '11',
-    label: 'A'
-  },
-  {
-    name: '22',
-    label: 'B',
-  }
-]
-```
+#### 记录一些琐碎的知识点，希望2020年在技术成长上更上一层   
