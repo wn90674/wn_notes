@@ -136,16 +136,16 @@ module.exports = {
         path: "移动端/fastclick兼容.md"
       },
       {
-        title: "scroll兼容",
-        path: "移动端/scroll兼容.md"
-      },
-      {
         title: "sticky兼容",
         path: "移动端/sticky兼容.md"
       },
       {
         title: "定位兼容",
         path: "移动端/定位兼容.md"
+      },
+      {
+        title: "滚动-scroll兼容",
+        path: "移动端/滚动-scroll兼容.md"
       },
       {
         title: "禁止滚动",
